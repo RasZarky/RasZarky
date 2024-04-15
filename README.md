@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raszarky&label=Profile%20views&color=0e75b6&style=flat" alt="raszarky" /> </p>
 
-- 🌱 I’m currently learning **react and photoshop**
+- 🌱 I’m currently learning **react and node**
 
 - 💬 Ask me about **java and flutter**
 
